@@ -10,6 +10,7 @@
 [This](https://rtbell.dev/blog/golang/learn-golang-with-me) guide helped me out to get the overall structure done and to learn about Go. 
 
 ## TODO
+- Change project to use BubbleTea framework, found [here](https://github.com/charmbracelet/bubbletea/tree/master)
 - Customize to only work for hours
 - Replace rest with a question to continue or not (would restart timer)
 - add GUI, maybe like a decreasing time bar
