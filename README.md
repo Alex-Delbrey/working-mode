@@ -1,4 +1,4 @@
-This is a mini project that has two main goals. 
+## This is a mini project that has two main goals. 
 
 1. Learn the Go language
 - Unfortunately this project is too simple and will not contain concepts like concurrency which is the main portion of learning Go.
@@ -13,3 +13,4 @@ This is a mini project that has two main goals.
 - Customize to only work for hours
 - Replace rest with a question to continue or not (would restart timer)
 - add GUI, maybe like a decreasing time bar
+- Create a make file so that I can build the project with `make work` and run the project with `work`
