@@ -1,11 +1,6 @@
 package main
 
-// A simple example that shows how to render an animated progress bar. In this
-// example we bump the progress by 25% every two seconds, animating our
-// progress bar to its new target state.
-//
-// It's also possible to render a progress bar in a more static fashion without
-// transitions. For details on that approach see the progress-static example.
+// This code is from github.com/charmbracelet/bubbletea/blob/main/examples/progress-animated/main.go and modified by me in order to change it into what I want to do
 
 import (
 	// "fmt"
