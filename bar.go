@@ -1,3 +1,5 @@
+// bar.go
+
 package main
 
 // This code is from github.com/charmbracelet/bubbletea/blob/main/examples/progress-animated/main.go and modified by me in order to change it into what I want to do
